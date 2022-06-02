@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: opstober.github.io
+Token: f9ee49fd22ec1045ecbbc051a9172ea7ac84ad85db1c54cf2280159128d9df95
